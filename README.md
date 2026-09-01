@@ -23,7 +23,7 @@ O projeto foi desenvolvido utilizando o Figma.
 
 # 👤 Aluna
 
-Nome: Gabriella Bernardini Grenzi Cavadinha
-Turma: 1 IG-DS
-Disciplina: Desenvolvimento de Sistemas
-Professor: Raul/André Luis Denani
+- Nome: Gabriella Bernardini Grenzi Cavadinha
+- Turma: 1 IG-DS
+- Disciplina: Desenvolvimento de Sistemas
+- Professor: Raul/André Luis Denani
