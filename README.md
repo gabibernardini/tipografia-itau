@@ -1,4 +1,4 @@
-# tipografia-itau
+# Tipografia Itaú
 
 # 📌 Sobre o projeto
 
